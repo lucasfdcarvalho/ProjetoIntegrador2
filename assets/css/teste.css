@@ -9,11 +9,8 @@
     align-items: center;
 }
 
-.rigth{
-    display: block;
-    margin-left: auto;
+.github {
     margin-top: .5rem;
-    cursor: pointer;
 }
 
 .container{
